@@ -44,7 +44,7 @@ This helped me practice core programming skills that I’ll use again, like hand
 
 
 ### How did I make the program maintainable, readable, and adaptable?
-I used clear variable names, added comments, and broke things into logical sections. If I or someone else wanted to add features later like sorting or exporting to CSV—it would be easy to do without rewriting everything.
+I used clear variable names, added comments, and broke things into logical sections. If I or someone else wanted to add features later like sorting or exporting to CSV it would be easy to do without rewriting everything.
 
 
 
